@@ -1,4 +1,4 @@
-![фон гитхаб](https://github.com/maxtiandi/maxtiandi/assets/130607788/c26b601a-0f22-4315-bbe6-e42f9735f2a2)
+![git 2](https://github.com/maxtiandi/maxtiandi/assets/130607788/682739a2-071c-494b-9f8e-bf13587fdfdf)
 
 - 📚 Improving my Data Science skills on a daily basis
 - 🥅 **Global Goal**: Delve deep into the classics of Machine Learning and immerse myself in the world of Deep Learning
