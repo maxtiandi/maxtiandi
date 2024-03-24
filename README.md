@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there!+I'm+Max,+aspiring+DS)](https://git.io/typing-svg)
+![фон гитхаб](https://github.com/maxtiandi/maxtiandi/assets/130607788/c26b601a-0f22-4315-bbe6-e42f9735f2a2)
 
 - 📚 Improving my Data Science skills on a daily basis
 - 🥅 **Global Goal**: Delve deep into the classics of Machine Learning and immerse myself in the world of Deep Learning
