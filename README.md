@@ -3,7 +3,7 @@
 - 📚 Improving my Data Science skills on a daily basis
 - 🥅 **Global Goal**: Delve deep into the classics of Machine Learning and immerse myself in the world of Deep Learning
 - 🎓 Future Master's in Data Science at HSE *[IN PROGRESS]*
-- ✅ Yandex.Praktikum DS course *[DONE]*
+- ✅ Yandex.Practikum DS course *[DONE]*
 
 ## 📈 Future Aspirations
 Aim to contribute to cutting-edge research and development in the field of AI. 
