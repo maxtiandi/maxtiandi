@@ -9,4 +9,4 @@
 Aim to contribute to cutting-edge research and development in the field of AI. 
 
 ## 🌱 Learning Path
-Constantly expanding my knowledge through online courses and practical projects. Wanna be a part of a great team to bring maximum contribution to its development and grow in the field by myself.
+Constantly expanding my knowledge through online courses and practical projects. Currently work as a DS-specialist at SBER AI
